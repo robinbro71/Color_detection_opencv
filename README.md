@@ -1,1 +1,1 @@
-![Demo Picture](resources/image.png)
+![Demo Picture](Resources/image.png)

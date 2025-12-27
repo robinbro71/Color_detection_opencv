@@ -1,0 +1,10 @@
+﻿  Ersow_colordetection.cpp
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(38,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(39,25): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(39,25): warning C4244:         with
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(39,25): warning C4244:         [
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(39,25): warning C4244:             _Ty=int
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(39,25): warning C4244:         ]
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(62,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\robinbro71\source\repos\Chapter1\Chapter1\Ersow_colordetection.cpp(80,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Chapter1.vcxproj -> C:\Users\robinbro71\source\repos\Chapter1\x64\Debug\Chapter1.exe
